@@ -1,0 +1,6 @@
+{
+  "name": "Swachh Track - Waste Management & Monitoring",
+  "description": "Citizen municipal waste reporting, live sanitation vehicle GPS tracking, GIS hotspot heatmaps, and multilingual ward monitoring system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
